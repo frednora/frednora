@@ -1,0 +1,6 @@
+
+   GIT project:
+
+G:  Gramado      - Kernel and DE.
+I:  Igapo        - Data lake.
+T:  Mount Tabor  - Data transformer.
