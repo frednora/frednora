@@ -1,4 +1,2 @@
-# Fred Nora
-
- I'm working hard to become the best version of myself.
- 
+> Web pages:
+> * frednora.github.io/ - The web page for this profile.
