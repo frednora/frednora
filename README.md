@@ -1,2 +1,1 @@
-> Web pages:
-> * frednora.github.io/ - The web page for this profile.
+Welcome to the Fred Nora's personal profile.
